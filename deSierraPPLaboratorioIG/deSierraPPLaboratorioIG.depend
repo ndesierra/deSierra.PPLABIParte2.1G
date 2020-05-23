@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1590193428 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auto.h"
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"menu.h"
+	"informes.h"
+	"cliente.h"
+
+1590184753 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\datawarehouse.h
+
+1590192470 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"datawarehouse.h"
+	"auto.h"
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"validaciones.h"
+	"menu.h"
+	"cliente.h"
+
+1590189693 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\auto.h
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1590163058 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\fecha.h
+
+1590194514 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\marca.h
+
+1590171533 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\color.h
+
+1590171533 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1590191793 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"marca.h"
+
+1590191593 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1590191593 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\servicio.h
+
+1590168183 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\validaciones.h
+	"fecha.h"
+
+1590189693 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1590189693 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"validaciones.h"
+	"cliente.h"
+
+1590165755 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"fecha.h"
+
+1590191681 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\menu.h
+
+1590194929 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1590194929 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\informes.h
+	"auto.h"
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"menu.h"
+	"cliente.h"
+
+1590194929 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"auto.h"
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"menu.h"
+	"cliente.h"
+
+1590189968 c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\cliente.h
+
+1590189693 source:c:\users\nico\desktop\2da parte parcial laboratorio\desierrapplaboratorioig\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+
